@@ -1,2 +1,2 @@
-# Braincias_PS17
+# 131.SavitriBaiPhule_PS17
 Abhyudaya Hackathon 2026 (IIT NAGPUR):
